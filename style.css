@@ -1,0 +1,152 @@
+body{
+    width: 751px;
+    margin: 0px auto;
+    font-family: AdobeInvisFont,MyriadPro-Regular;
+}
+
+header{
+    background-image: url(image/header.png);
+    height: 236px;
+}
+div.oval{
+    padding-left: 37px;
+    padding-top: 46px;
+    padding-bottom: 48px;
+    display: inline-block;
+}
+div.kabinet{
+    display: inline-block;
+    color: white;
+    width: 134px;
+    height: 131px;
+    font-size: 2em;
+    vertical-align: baseline;
+    padding-left: 58px;
+}
+div.tri_linii{
+    display: inline-block;
+}
+.img_tri_line{
+    display: block;
+    padding-bottom: 22px;
+    padding-left: 250px;
+}
+
+
+div.zapis{
+    background-image: url(image/0325115cfca2f08bd19529e1d4a4396a@1X.png);
+    background-repeat: no-repeat;
+    position:relative;
+}
+.ten_fona{
+    width: 742px;
+    height: 444px;
+    padding-left: 8px;
+    padding-bottom: 21px;
+}
+div.zapis_na_priem{
+    
+    position: absolute;
+    bottom: 42px;
+    right: 204px;
+  
+}
+a.zapis_link{
+    text-decoration: none;
+    color: white;
+}
+div.button{
+    background-color: #CB9223;
+    width: 342px;
+    height: 75px;
+    font-size: 1.5em;
+    text-align: center;
+    line-height: 3;
+    font-family: AdobeInvisFont,MyriadPro-Regular;
+    text-transform: uppercase;
+}
+
+
+div.foto_psih{
+    display: inline-block;
+    border-radius: 50%;
+    margin-left: 44px;
+    margin-top: 73px;
+}
+.oval{
+    border-radius: 50%;
+}
+div.name_and_prof{
+    vertical-align: top;
+    display: inline-block;
+    margin-top: 134px;
+}
+div.name{
+    font-size: 2em;
+    margin-left: 75px;
+}
+div.prof{
+    font-size: 1.5em;
+    width: 245px;
+    margin-left: 73px;
+    padding-top: 29px;
+}
+
+
+div.opis{
+    width: 590px;
+    height: 166px;
+    font-size: 1.5em;
+    margin-left: 44px;
+    margin-top: 60px;
+}
+
+
+div.prichini{
+    font-size: 2em;
+    margin-top: 46px;
+    margin-left: 44px;
+}
+div.spisok{
+    font-size: 1.5em;
+    margin-left: 44px;
+}
+ul.spisok{
+    list-style-type: none;
+}
+
+
+div.zapis_na_priem_2{
+    margin-top: 43px;
+    margin-left: 217px;
+    
+}
+
+
+footer{
+    background-color: #888888;
+    margin-top: 49px;
+    color: white;
+    height: 154px;
+}
+div.oval_footer{
+    display:inline-block;
+    margin-top: 29px;
+    margin-left: 44px;
+}
+div.adress{
+    display: inline-block;
+    margin-top: 103px;
+    margin-left: 184px;
+}
+div.tel_mail{
+    display: inline-block;
+    margin-left: 38px;
+}
+div.telefon{
+    padding-left: 8px;
+}
+a{
+    text-decoration-line: none;
+    color: white;
+}
