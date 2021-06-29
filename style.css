@@ -3,7 +3,6 @@ body{
     margin: 0px auto;
     font-family: AdobeInvisFont,MyriadPro-Regular;
 }
-
 header{
     background-image: url(image/header.png);
     height: 236px;
@@ -31,8 +30,6 @@ div.tri_linii{
     padding-bottom: 22px;
     padding-left: 250px;
 }
-
-
 div.zapis{
     background-image: url(image/0325115cfca2f08bd19529e1d4a4396a@1X.png);
     background-repeat: no-repeat;
@@ -44,17 +41,15 @@ div.zapis{
     padding-left: 8px;
     padding-bottom: 21px;
 }
-div.zapis_na_priem{
-    
+div.zapis_na_priem{    
     position: absolute;
     bottom: 42px;
-    right: 204px;
-  
+    right: 204px;  
 }
-a.zapis_link{
+/*a.zapis_link{
     text-decoration: none;
     color: white;
-}
+}*/
 div.button{
     background-color: #CB9223;
     width: 342px;
@@ -64,9 +59,8 @@ div.button{
     line-height: 3;
     font-family: AdobeInvisFont,MyriadPro-Regular;
     text-transform: uppercase;
+    display: inline-block;
 }
-
-
 div.foto_psih{
     display: inline-block;
     border-radius: 50%;
@@ -91,8 +85,6 @@ div.prof{
     margin-left: 73px;
     padding-top: 29px;
 }
-
-
 div.opis{
     width: 590px;
     height: 166px;
@@ -100,8 +92,6 @@ div.opis{
     margin-left: 44px;
     margin-top: 60px;
 }
-
-
 div.prichini{
     font-size: 2em;
     margin-top: 46px;
@@ -114,12 +104,9 @@ div.spisok{
 ul.spisok{
     list-style-type: none;
 }
-
-
 div.zapis_na_priem_2{
     margin-top: 43px;
-    margin-left: 217px;
-    
+    margin-left: 217px;    
 }
 
 
